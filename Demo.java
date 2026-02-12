@@ -1,8 +1,9 @@
 class Demo {
 public static void main(String args[])
 {
-System.out.println("Wlcome to cse jenkins");
+System.out.println("Welcome to cse jenkins");
 
 }
 
 }
+
